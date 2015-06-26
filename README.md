@@ -1,2 +1,6 @@
-# jswf-benchmarks
-Benchmark for several JS Web Frameworks
+# Comparaison de Web Frameworks Javascript
+
+Les frameworks testés sont : 
+* Meteor
+* Sails
+* ExpressJS + Mongoose 
